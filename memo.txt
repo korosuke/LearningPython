@@ -4,6 +4,35 @@
 ・それぞれのユニットテストの行い方の習得
 ・簡易検索機能の学習
 ・簡易検索機能のWEBアプリ化
+・ある程度コードを打ってからコード保管の機能を使用していく
+・自作検索エンジンを作成（GAEとかで？）
+http://q.hatena.ne.jp/1150815915
 
 終了時に行う事
 ・bitbucketの鍵削除
+
+参考
+・python 2.7 ja リファレンス
+http://docs.python.jp/2/reference/
+
+・Python v3.3.2 documentation
+http://docs.python.org/3/
+
+・python 3.3.2 リファレンス
+http://docs.python.org/3/reference/
+
+・vimの設定
+http://nanasi.jp/
+
+・雑記メモ
+wijmo
+nuc
+ジョンマッカーシー
+数理論理学
+Redis
+CRIミドルウェア
+Quora
+clojure
+ジョセフ・ワイゼンバウム
+７つの言語 ７つの世界
+リバースエンジニアリング ―Pythonによるバイナリ解析技法
