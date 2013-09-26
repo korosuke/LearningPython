@@ -24,6 +24,12 @@ http://docs.python.org/3/reference/
 ・vimの設定
 http://nanasi.jp/
 
+・pythonの入門の良書
+http://diveintopython3-ja.rdy.jp/index.html
+
+・pythonの書籍一覧
+http://python.rdy.jp/wiki.cgi?page=%B4%D8%CF%A2%BF%DE%BD%F1
+
 ・雑記メモ
 wijmo
 nuc
@@ -36,3 +42,9 @@ clojure
 ジョセフ・ワイゼンバウム
 ７つの言語 ７つの世界
 リバースエンジニアリング ―Pythonによるバイナリ解析技法
+pythonの神様：グイドヴァンロッサム
+
+http://wapiko.ddo.jp/wapi/paso/paso9.htm
+
+https://www.google.co.jp/search?q=python+%E8%87%AA%E5%8B%95%E7%94%BB%E5%83%8F%E5%8F%8E%E9%9B%86&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:ja:official&hl=ja&client=firefox-a
+
